@@ -6,7 +6,7 @@ I'm a Java Full Stack Developer passionate about building practical and scalable
 
 ## 🚀 About Me
 
-- 🎓 Computer Science & Engineering graduate
+- 🎓 Information Science & Engineering graduate
 - 💻 Java Full Stack Developer
 - 🌱 Currently strengthening my skills in Java, Spring Boot and DSA
 - 🔨 Interested in backend and full-stack development
